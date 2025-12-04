@@ -54,7 +54,7 @@
 
 .jumbotron {
     /* background-image: url("../assets/contour-lines.png"); */
-    text-align: left;
+    text-align: center;
     color: #92DCE5;
     padding: 3%;
     border-radius: 0px;
@@ -117,6 +117,6 @@ a:hover {
 body {
 
     font-family: 'Georgia', serif;
-    background-color: #f7f1fa;
+    background-color: ##B298DC;
     color: #242424;
 }
