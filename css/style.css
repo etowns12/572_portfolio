@@ -1,7 +1,7 @@
 /***** NAVBAR *****/
 
 .navbar {
-    background-color: #863ee3;
+    background-color: #034C3C;
     border-radius: 0;
 }
 
@@ -17,7 +17,7 @@
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #ebd122;
+    color: #e662f2;
     text-decoration: none;
 }
 
@@ -32,7 +32,7 @@
 .navbar-toggler {
     color: #fff;
     border-color: #fff;
-    background-color: #863ee3;
+    background-color: #e662f2;
     border-radius: 4px;
     border: 1px solid;
     fill: #fff;
@@ -43,7 +43,7 @@
 
 .navbar-toggler:hover,
 .navbar-toggler:focus {
-    background-color: #ebd122;
+    background-color: #e662f2;
     color: #242424;
     fill: #242424;
     border-color: #fff;
@@ -54,14 +54,14 @@
 
 .jumbotron {
     /* background-image: url("../assets/contour-lines.png"); */
-    text-align: left;
-    color: #92DCE5;
+    text-align: center;
+    color: #034C3C;
     padding: 3%;
     border-radius: 0px;
 }
 
 .jumbotron h2 {
-    font-size: 40px;
+    font-size: 45px;
     font-weight: normal;
 }
 
@@ -79,7 +79,7 @@
 }
 
 .card:hover {
-    border-color: #ebd122;
+    border-color: #034C3C;
 }
 
 /*** Basic Text Styles ***/
@@ -103,11 +103,11 @@ p {
 }
 
 a {
-    color: #863ee3;
+    color: #034C3C;
 }
 
 a:hover {
-    color: #ebd122;
+    color: #e662f2;
 }
 
 .container{
@@ -117,6 +117,6 @@ a:hover {
 body {
 
     font-family: 'Georgia', serif;
-    background-color: #f7f1fa;
-    color: #242424;
+    background-color: #f8e0fa;
+    color: #034C3C;
 }
