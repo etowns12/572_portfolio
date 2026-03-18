@@ -76,6 +76,8 @@
     border-color: #cccccc;
     border-width: 1px;
     width: 100%;
+    padding: 10px;
+    margin: 10px;
 }
 
 .card:hover {
@@ -115,7 +117,6 @@ a:hover {
 }
 
 body {
-
     font-family: 'Georgia', serif;
     background-color: #f8e0fa;
     color: #034C3C;
@@ -127,4 +128,23 @@ body {
     padding: 10px 30px;
     background-color: #f8defa;
     border-radius: 10px;
+}
+
+.section{
+    padding: 20px;
+    margin: 20px;
+    border: #034C3C solid 0.5px;
+    border-radius: 15px;
+}
+
+.index-head{
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    /* border: #cca4cf solid 0.5px;
+    border-radius: 15px;
+    padding-left: 0px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px; */
 }
